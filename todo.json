@@ -1,0 +1,10 @@
+{"todos":[
+    {
+        "task": "do the dishes",
+        "completed": "checked"
+    },
+    {
+        "task": "make bed",
+        "completed": "not-checked"
+    }
+]}
